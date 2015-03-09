@@ -10,6 +10,7 @@ namespace pisvj1
         static void Main(string[] args)
         {
             Console.WriteLine("Hellooooo"); //hej
+            //druga promjena
         }
     }
 }
